@@ -1,9 +1,10 @@
 public class Test {
     public static void main(String[] args) {
 
-        int b1 = 0b1100;
-        int b2 = 0b1110;
+        int a = -1;
+        int b = 7;
 
-        System.out.println(b1&b2);
+        System.out.println(a++ +b);
+        System.out.println();
     }
 }
